@@ -4,3 +4,7 @@
 3. best.rknn 可以直接放在配置好 RKNN 环境的RK3566、RK3568、RK3588板卡上。
 4. 可在test.py里配置图片和模型的路径，使用 python3 test.py，可以直接识别出图片中异常的置信度。
 
+如下所示：
+
+![yolo](yolo.png)
+
